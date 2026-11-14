@@ -1,3 +1,7 @@
+/****************/
+// Ma sinh vien: 202418841
+// Ho ten: Duong Thi Quynh Anh
+/****************/
 public final class SmartHomeFacade {
     private final IDevice light;
     private final IDevice fan;

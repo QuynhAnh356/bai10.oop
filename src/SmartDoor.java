@@ -1,3 +1,7 @@
+/****************/
+// Ma sinh vien: 202418841
+// Ho ten: Duong Thi Quynh Anh
+/****************/
 public class SmartDoor implements IDevice, ILockable {
     private String name;
     private boolean isLocked;

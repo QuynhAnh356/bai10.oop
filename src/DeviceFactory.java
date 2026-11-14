@@ -1,3 +1,7 @@
+/****************/
+// Ma sinh vien: 202418841
+// Ho ten: Duong Thi Quynh Anh
+/****************/
 public class DeviceFactory {
     public static IDevice create(String type, String name) {
         if (type == null) {

@@ -1,3 +1,7 @@
+/****************/
+// Ma sinh vien: 202418841
+// Ho ten: Duong Thi Quynh Anh
+/****************/
 public class Main {
     public static void main(String[] args) {
         System.out.println("T1: Kiem tra Factory tao light, fan, door");
@@ -15,7 +19,6 @@ public class Main {
         } catch (IllegalArgumentException e) {
             System.out.println("Ket qua thanh cong bat ngoai le: " + e.getMessage());
         }
-git a
         System.out.println("\nT3: Kiem tra Singleton");
         HomeConfiguration c1 = HomeConfiguration.getInstance();
         HomeConfiguration c2 = HomeConfiguration.getInstance();
